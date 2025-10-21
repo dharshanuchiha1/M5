@@ -74,8 +74,10 @@ int main() {
     return 0;
 }
 ```
-## OUTPUT:
-      ![alt text](<Ex 22.png>)   		
+## OUTPUT: 
+![alt text](<Ex 22.png>)
+
+
 ## RESULT:
 
 Thus the program has been executed successfully.
